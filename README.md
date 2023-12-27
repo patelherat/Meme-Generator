@@ -1,1 +1,1 @@
-
+This React application serves as a dynamic Meme Generator, seamlessly integrating with an external API. The user can input custom text, and upon triggering the 'Generate Meme' button, the app fetches and displays a random meme with the entered text. The application leverages the power of React to provide an interactive and engaging experience, combining user input with the spontaneity of humor through randomly generated memes sourced from an external API.
